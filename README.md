@@ -9,7 +9,6 @@
 <p align="center">
 
 ![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/MMMUT-Gorakhpur-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-9.4-7C3AED?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=sonakshii-singh&style=for-the-badge&color=7C3AED)
 
