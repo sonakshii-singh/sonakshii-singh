@@ -192,8 +192,8 @@ A dark-themed calculator supporting both keyboard and mouse input with a clean, 
 - Beginner-friendly clean architecture.
 
 </details>
-
-Competitive programming solutions.
+<details>
+<summary><b> Competitive programming solutions. </b></summary>
 
 | Metric | Value |
 |---|---|
