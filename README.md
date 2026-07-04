@@ -59,9 +59,6 @@ Software Engineering student interested in scalable software systems, competitiv
 
 ---
 
-# Featured Projects
-
-
 #  Featured Projects
 
 <details open>
