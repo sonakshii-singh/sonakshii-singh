@@ -22,13 +22,12 @@
 
 # About Me
 
-Software Engineering student at **MMMUT Gorakhpur** interested in scalable software systems, competitive programming, AI/ML and full stack development. I enjoy building polished products and contributing to open source.
+Software Engineering student interested in scalable software systems, competitive programming, AI/ML and Data Analysis. I enjoy building polished products and contributing to open source.
 
 **Open To**
 - Software Engineering Internships
 - Open Source
 - AI Projects
-- Full Stack Projects
 
 ---
 
@@ -36,17 +35,17 @@ Software Engineering student at **MMMUT Gorakhpur** interested in scalable softw
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sql,python"/>
 </p>
 
 ### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,bootstrap,vite"/></p>
+<p><img src="https://skillicons.dev/icons?i=react"/></p>
 
 ### Backend & Databases
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/></p>
 
 ### Cloud, DevOps & Tooling
-<p><img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode"/></p>
 
 ---
 
@@ -122,25 +121,6 @@ Professional engineering focused implementation emphasizing maintainability, rea
 
 
 <details>
-<summary><b>Portfolio</b></summary>
-
-Developer portfolio.
-
-| Metric | Value |
-|---|---|
-| Stack | React |
-| Scale | Personal |
-| Performance | Optimized |
-| Security | Best Practices |
-| Impact | Portfolio |
-| Repository | https://github.com/sonakshii-singh |
-
-Professional engineering focused implementation emphasizing maintainability, readability and clean architecture.
-
-</details>
-
-
-<details>
 <summary><b>DSA Repository</b></summary>
 
 Competitive programming solutions.
@@ -163,14 +143,13 @@ Professional engineering focused implementation emphasizing maintainability, rea
 
 # Experience
 
-## Student Developer — MMMUT Gorakhpur
+## Student Developer 
 
 - Competitive Programming
-- Full Stack Development
 - Open Source Contributions
 - Continuous Learning
 
-**Skills:** `C++` `React` `Node.js` `Git`
+**Skills:** `python` `C++` `React` `Node.js` `Git` `C` `Canva` `SQL`
 
 ---
 
@@ -179,26 +158,8 @@ Professional engineering focused implementation emphasizing maintainability, rea
 | Recognition | Details |
 |---|---|
 | LeetCode | 1480 Rating |
-| CodeChef | 1192 Rating |
-| First Year CGPA | 9.4 |
-| Open Source | FitMart Contributor |
-
----
-
-# Certifications
-
-### AWS
-![](https://img.shields.io/badge/Learning_Path-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-![](https://img.shields.io/badge/Planned-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-![](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-![](https://img.shields.io/badge/Ongoing-0A6EBD?style=for-the-badge)
-
+| CodeChef | 1333 Rating |
+| CodeForces | 702 Rating |
 ---
 
 # Coding Profiles
@@ -239,26 +200,13 @@ Professional engineering focused implementation emphasizing maintainability, rea
 
 ---
 
-# Contribution Snake
-
-```text
-Generate using Platane/snk GitHub Action.
-```
-
----
-
 # Current Focus
 
 ```yaml
 learning:
   - C++
   - DSA
-  - React
   - AI/ML
-
-building:
-  - Portfolio
-  - Open Source
 
 exploring:
   - System Design
@@ -266,7 +214,6 @@ exploring:
 
 open_to:
   - Internships
-  - Collaborations
 ```
 
 ---
@@ -283,153 +230,3 @@ open_to:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,19,20,24,30"/>
 </p>
-
-
----
-
-### Engineering Notes 1
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 2
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 3
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 4
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 5
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 6
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 7
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 8
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 9
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 10
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 11
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 12
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 13
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 14
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
-
-
----
-
-### Engineering Notes 15
-
-- Focus on maintainability
-- Testing mindset
-- Performance awareness
-- Documentation
