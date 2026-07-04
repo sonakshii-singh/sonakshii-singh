@@ -62,65 +62,139 @@ Software Engineering student interested in scalable software systems, competitiv
 # Featured Projects
 
 
-<details>
-<summary><b>Calculator</b></summary>
+#  Featured Projects
 
-Responsive keyboard-enabled calculator.
+<details open>
+<summary><b> FitMart — Full Stack MERN Fitness Platform</b></summary>
 
-| Metric | Value |
-|---|---|
-| Stack | HTML CSS JavaScript |
-| Scale | Personal |
-| Performance | Optimized |
-| Security | Best Practices |
-| Impact | Portfolio |
-| Repository | https://github.com/sonakshii-singh |
+### Overview
+A production-style MERN fitness e-commerce platform built as an open-source project with modern UI, authentication, payments, AI features, and an admin dashboard.
 
-Professional engineering focused implementation emphasizing maintainability, readability and clean architecture.
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | React, Node.js, Express.js, MongoDB, JavaScript |
+| **Scale** | Full Stack MERN Application |
+| **Key Features** | Razorpay Payments, AI Chatbot, BMI Calculator, Workout Tracker, Exercise Library, Admin Dashboard |
+| **Focus** | Full Stack Development, REST APIs, Authentication |
+| **Repository** | https://github.com/sonakshii-singh/FitMart |
 
-</details>
-
-
-<details>
-<summary><b>To-Do App</b></summary>
-
-Task management application.
-
-| Metric | Value |
-|---|---|
-| Stack | React |
-| Scale | Personal |
-| Performance | Optimized |
-| Security | Best Practices |
-| Impact | Portfolio |
-| Repository | https://github.com/sonakshii-singh |
-
-Professional engineering focused implementation emphasizing maintainability, readability and clean architecture.
+### Highlights
+- Contributed to a real-world open-source MERN project.
+- Worked with scalable React components and backend APIs.
+- Improved collaboration using Git and GitHub workflows.
 
 </details>
 
+---
 
 <details>
-<summary><b>FitMart OSS</b></summary>
+<summary><b> Competitive Programming — Codeforces Journey</b></summary>
 
-Open source contribution.
+### Overview
+A curated repository containing my Codeforces solutions in C++, organized by rating to document my competitive programming journey.
 
-| Metric | Value |
-|---|---|
-| Stack | React Node |
-| Scale | Personal |
-| Performance | Optimized |
-| Security | Best Practices |
-| Impact | Portfolio |
-| Repository | https://github.com/sonakshii-singh |
+| Category | Details |
+|----------|---------|
+| **Language** | C++ |
+| **Platform** | Codeforces |
+| **Topics** | Greedy, Math, Brute Force, Binary Search, Strings, Implementation |
+| **Goal** | Strengthen algorithmic thinking |
+| **Repository** | https://github.com/sonakshii-singh/Competitive-Programming-Codeforces |
 
-Professional engineering focused implementation emphasizing maintainability, readability and clean architecture.
+### Highlights
+- Problems categorized by difficulty.
+- Clean and readable implementations.
+- Continuous learning and rating progression.
 
 </details>
 
+---
 
 <details>
-<summary><b>DSA Repository</b></summary>
+<summary><b> LeetCode Journey</b></summary>
+
+### Overview
+A growing collection of optimized C++ solutions for Data Structures and Algorithms problems from LeetCode.
+
+| Category | Details |
+|----------|---------|
+| **Language** | C++ |
+| **Topics** | Arrays, Linked Lists, Trees, Graphs, DP, Binary Search |
+| **Goal** | Interview Preparation |
+| **Repository** | https://github.com/sonakshii-singh/leetcode-journey |
+
+### Highlights
+- Optimized solutions.
+- Well-structured code.
+- Covers core DSA concepts.
+
+</details>
+
+---
+
+<details>
+<summary><b> TLE Eliminators CP-31 Sheet</b></summary>
+
+### Overview
+Solutions for the TLE Eliminators CP-31 Sheet, documenting structured competitive programming practice.
+
+| Category | Details |
+|----------|---------|
+| **Language** | C++ |
+| **Platform** | Codeforces |
+| **Focus** | Problem Solving |
+| **Repository** | https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31 |
+
+### Highlights
+- Structured learning roadmap.
+- Rating-wise progression.
+- Consistent coding practice.
+
+</details>
+
+---
+
+<details>
+<summary><b> To-Do App</b></summary>
+
+### Overview
+A responsive task management application with a modern dark UI and persistent local storage.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML, CSS, JavaScript |
+| **Features** | Add, Edit, Delete, Complete Tasks, Local Storage |
+| **UI** | Responsive Design |
+| **Repository** | https://github.com/sonakshii-singh/To-Do-App |
+
+### Highlights
+- Responsive interface.
+- Smooth user experience.
+- Persistent task management.
+
+</details>
+
+---
+
+<details>
+<summary><b> Calculator Project</b></summary>
+
+### Overview
+A dark-themed calculator supporting both keyboard and mouse input with a clean, responsive interface.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML, CSS, JavaScript |
+| **Features** | Keyboard Support, Responsive Layout |
+| **UI** | Dark Theme |
+| **Repository** | https://github.com/sonakshii-singh/calculator-project |
+
+### Highlights
+- Keyboard shortcuts.
+- Responsive design.
+- Beginner-friendly clean architecture.
+
+</details>
 
 Competitive programming solutions.
 
@@ -166,7 +240,7 @@ Professional engineering focused implementation emphasizing maintainability, rea
 ![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)
 ![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)
 ![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)
-![](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge)
+![](https://img.shields.io/badge/CodeForces-2F8D46?style=for-the-badge&logo=codeforces)
 
 ---
 
