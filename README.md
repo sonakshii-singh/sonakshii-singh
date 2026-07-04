@@ -235,12 +235,23 @@ Professional engineering focused implementation emphasizing maintainability, rea
 | CodeForces | 702 Rating |
 ---
 
-# Coding Profiles
+## <img src="https://img.icons8.com/fluency/24/source-code.png" width="22"/> Coding Profiles
 
-![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)
-![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)
-![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)
-![](https://img.shields.io/badge/CodeForces-2F8D46?style=for-the-badge&logo=codeforces)
+<p align="center">
+
+<a href="https://leetcode.com/u/sonakshii-singh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
+</a>
+
+<a href="https://codeforces.com/profile/Sonakshii_Singh" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=A855F7" />
+</a>
+
+<a href="https://www.codechef.com/users/sonakshii_s" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-161B22?style=for-the-badge&logo=codechef&logoColor=FFFFFF&labelColor=161B22" />
+</a>
+
+</p>
 
 ---
 
