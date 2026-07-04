@@ -34,7 +34,7 @@ Software Engineering student interested in scalable software systems, competitiv
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sql,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,python"/>
 </p>
 
 ### Frontend
@@ -183,13 +183,6 @@ Professional engineering focused implementation emphasizing maintainability, rea
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sonakshii-singh&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
 
 # Contribution Activity
 
