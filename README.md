@@ -219,7 +219,7 @@ Professional engineering focused implementation emphasizing maintainability, rea
 - Open Source Contributions
 - Continuous Learning
 
-**Skills:** `python` `C++` `React` `Node.js` `Git` `C` `Canva` `SQL`
+**Skills:** `python` `C++` `Node.js` `Git` `C` `Canva` `SQL`
 
 ---
 
@@ -281,10 +281,11 @@ learning:
   - C++
   - DSA
   - AI/ML
+  -Python
 
 exploring:
-  - System Design
-  - Cloud
+  - CP
+  - Projects
 
 open_to:
   - Internships
