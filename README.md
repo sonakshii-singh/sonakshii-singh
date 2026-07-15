@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Hello,%20I'm%20Sonakshi&fontAlignY=38&fontSize=48&animation=fadeIn&fontColor=FFFFFF&color=gradient&customColorList=31,32,33,34,35&desc=Software%20Engineering%20Student%20|%20Competitive%20Programmer%20|%20Open%20Source%20Contributor&descAlignY=60&descColor=FFE5F1&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Hello,%20I'm%20Sonakshi!&fontAlignY=38&fontSize=48&animation=fadeIn&fontColor=FFFFFF&color=gradient&customColorList=31,32,33,34,35&desc=Software%20Engineering%20Student%20|%20Competitive%20Programmer%20|%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=FFE5F1"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Competitive+Programmer;Open+Source+Contributor;Learning+AI%2FML"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3000&color=FF4FA3&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Competitive+Programming+Enthusiast;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -26,8 +26,7 @@
 ## About Me
 
 <!-- TODO: Replace this with 1-2 sentences on what got you into CP/engineering, or a specific problem/project you're proud of. This is the line people remember. -->
-I'm a Software Engineering student (CGPA 9.4) who likes taking problems apart — whether that's an algorithmic puzzle on Codeforces or a full-stack product that needs to hold up under real users. I build with the MERN stack, sharpen fundamentals through competitive programming, and I'm currently deepening my AI/ML skills.
-
+I'm a B.Tech CSE student passionate about data analytics, solving algorithmic problems, and contributing to open source. My current focus is strengthening data structures and algorithms while exploring AI/ML.
 **Open to:** Software Engineering Internships · Open Source Contributions · AI/ML Projects & Research
 
 ---
@@ -58,27 +57,31 @@ I'm a Software Engineering student (CGPA 9.4) who likes taking problems apart �
 
 ## Featured Projects
 
-### 🏋️ FitMart — Full-Stack Fitness Platform
+###  FitMart — Full-Stack Fitness Platform
 MERN application combining workout tracking, a BMI calculator, and an AI-powered chatbot for personalized fitness guidance, with secure authentication and Razorpay payment integration for premium features.
 <!-- TODO: Add 1 concrete detail — e.g. "Handles X concurrent users", "Reduced page load by X%", "Built for a class of 50 beta testers" — whatever is true and specific. -->
 **Tech:** React · Node.js · Express · MongoDB · Razorpay API
 **Links:** [Repo](https://github.com/sonakshii-singh/FitMart) <!-- · [Live Demo](#) — add if deployed -->
 
-### 🧩 LeetCode Journey
+###  LeetCode Journey
 A running archive of optimized C++ solutions to Data Structures & Algorithms problems, organized to track pattern recognition (sliding window, DP, graphs, etc.) rather than just problem count.
 **Tech:** C++
 **Link:** [Repo](https://github.com/sonakshii-singh/leetcode-journey)
 
-### ⚔️ Competitive Programming — Codeforces
+###  Competitive Programming — Codeforces
 Solutions to Codeforces problems, organized by difficulty rating, focused on writing clean, efficient, and reusable algorithmic code under contest constraints.
 **Tech:** C++
 **Link:** [Repo](https://github.com/sonakshii-singh/Competitive-Programming-Codeforces)
 
-### ✅ To-Do App
+###  To-Do App
 A responsive task management app with persistent local storage, built to practice clean vanilla JS state management without a framework.
 **Tech:** HTML · CSS · JavaScript
 **Link:** [Repo](https://github.com/sonakshii-singh/To-Do-App)
 
+### TLE Eliminators CP-31 Sheet
+A structured collection of C++ solutions for the TLE Eliminators CP-31 Sheet, documenting my competitive programming journey through rating-wise practice and consistent problem solving.
+**Tech:** C++
+**Link:** [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31) 
 ---
 
 ## Competitive Programming
