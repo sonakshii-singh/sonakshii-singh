@@ -79,9 +79,11 @@ A responsive task management app with persistent local storage, built to practic
 **Link:** [Repo](https://github.com/sonakshii-singh/To-Do-App)
 
 ### TLE Eliminators CP-31 Sheet
-A structured collection of C++ solutions for the TLE Eliminators CP-31 Sheet, documenting my competitive programming journey through rating-wise practice and consistent problem solving.
-**Tech:** C++
-**Link:** [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31) 
+
+A structured collection of C++ solutions for the TLE Eliminators CP-31 Sheet, organized to strengthen algorithmic thinking through consistent competitive programming practice.
+
+**Tech:** C++  
+**Link:** [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31)
 ---
 
 ## Competitive Programming
