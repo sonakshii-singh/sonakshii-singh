@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Sonakshi%20Singh&fontAlignY=38&fontSize=48&animation=fadeIn&color=gradient&customColorList=12,19,20,24,30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Hello,%20This%20is%20Sonakshi!%20👋&fontAlignY=38&fontSize=44&animation=fadeIn&color=gradient&customColorList=12,19,20,24,30"/>
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Competitive+Programmer;AI%2FML+Learner;Open+Source+Contributor"/>
 </p>
