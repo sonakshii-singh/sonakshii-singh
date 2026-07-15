@@ -1,9 +1,10 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Hello,%20I'm%20Sonakshi&fontAlignY=38&fontSize=48&animation=fadeIn&fontColor=FFFFFF&color=gradient&customColorList=31,32,33,34,35&desc=Software%20Engineering%20Student%20|%20Competitive%20Programmer%20|%20Open%20Source%20Contributor&descAlignY=60&descColor=FFE5F1&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Hello,%20I'm%20Sonakshi&fontAlignY=38&fontSize=48&animation=fadeIn&fontColor=FFFFFF&color=gradient&customColorList=31,32,33,34,35&desc=Software%20Engineering%20Student%20|%20Competitive%20Programmer%20|%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=FFE5F1"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Competitive+Programmer;Open+Source+Contributor;Learning+AI%2FML"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3000&color=FF4FA3&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Competitive+Programming+Enthusiast;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -12,99 +13,45 @@
 <img src="https://komarev.com/ghpvc/?username=sonakshii-singh&style=for-the-badge&color=FF4FA3"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/sonakshii-singh">
-<img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sonakshi-singh-4aa7bb380">
-<img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+---
+
+# About Me
+
+I'm a B.Tech CSE student passionate about building full-stack applications, solving algorithmic problems, and contributing to open source. My current focus is strengthening software engineering fundamentals while exploring AI/ML.
+
+- Looking for Software Engineering Internships
+- Open to Open Source Collaboration
+- Interested in Backend Development & AI
 
 ---
 
-## About Me
+# Featured Project
 
-<!-- TODO: Replace this with 1-2 sentences on what got you into CP/engineering, or a specific problem/project you're proud of. This is the line people remember. -->
-I'm a Software Engineering student (CGPA 9.4) who likes taking problems apart — whether that's an algorithmic puzzle on Codeforces or a full-stack product that needs to hold up under real users. I build with the MERN stack, sharpen fundamentals through competitive programming, and I'm currently deepening my AI/ML skills.
-
-**Open to:** Software Engineering Internships · Open Source Contributions · AI/ML Projects & Research
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-### Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-## Featured Projects
-
-### 🏋️ FitMart — Full-Stack Fitness Platform
-MERN application combining workout tracking, a BMI calculator, and an AI-powered chatbot for personalized fitness guidance, with secure authentication and Razorpay payment integration for premium features.
-<!-- TODO: Add 1 concrete detail — e.g. "Handles X concurrent users", "Reduced page load by X%", "Built for a class of 50 beta testers" — whatever is true and specific. -->
-**Tech:** React · Node.js · Express · MongoDB · Razorpay API
-**Links:** [Repo](https://github.com/sonakshii-singh/FitMart) <!-- · [Live Demo](#) — add if deployed -->
-
-### 🧩 LeetCode Journey
-A running archive of optimized C++ solutions to Data Structures & Algorithms problems, organized to track pattern recognition (sliding window, DP, graphs, etc.) rather than just problem count.
-**Tech:** C++
-**Link:** [Repo](https://github.com/sonakshii-singh/leetcode-journey)
-
-### ⚔️ Competitive Programming — Codeforces
-Solutions to Codeforces problems, organized by difficulty rating, focused on writing clean, efficient, and reusable algorithmic code under contest constraints.
-**Tech:** C++
-**Link:** [Repo](https://github.com/sonakshii-singh/Competitive-Programming-Codeforces)
-
-### ✅ To-Do App
-A responsive task management app with persistent local storage, built to practice clean vanilla JS state management without a framework.
-**Tech:** HTML · CSS · JavaScript
-**Link:** [Repo](https://github.com/sonakshii-singh/To-Do-App)
-
----
-
-## Competitive Programming
+## FitMart — MERN Fitness Platform
 
 <p align="center">
-
-<a href="https://leetcode.com/u/sonakshii-singh/">
-<img src="https://img.shields.io/badge/LeetCode-1480-2B2D42?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://codeforces.com/profile/Sonakshii_Singh">
-<img src="https://img.shields.io/badge/Codeforces-898-FF4FA3?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/sonakshii_s">
-<img src="https://img.shields.io/badge/CodeChef-1337-2B2D42?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+<b>Add a screenshot or GIF of FitMart here.</b><br>
+<i>Replace this section with a 1200×700 screenshot after deployment.</i>
 </p>
 
-<!-- Optional: once you have solve counts or a milestone, a line like this reads stronger than the raw ratings alone -->
-<!-- Actively climbing the ranks — 300+ problems solved across platforms, with a focus on DP, graphs, and greedy algorithms. -->
+| Tech | Highlights |
+|------|------------|
+| React, Node.js, Express, MongoDB | Authentication • Razorpay • AI Chatbot • Workout Tracker • BMI Calculator • Admin Dashboard |
+
+Repository:
+https://github.com/sonakshii-singh/FitMart
 
 ---
 
-## GitHub Analytics
+# Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode"/>
+</p>
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonakshii-singh&show_icons=true&theme=radical&hide_border=true"/>
@@ -121,37 +68,65 @@ A responsive task management app with persistent local storage, built to practic
 
 ---
 
-## Currently Learning
+# Achievements
+
+| Platform | Rating |
+|----------|-------:|
+| LeetCode | **1480** |
+| CodeChef | **1337** |
+| Codeforces | **898** |
+
+---
+
+# Other Projects
+
+| Project | Description |
+|---------|-------------|
+| LeetCode Journey | Optimized C++ DSA solutions |
+| Competitive Programming | Codeforces solutions organized by rating |
+| To-Do App | Task management app with local storage |
+| Calculator | Responsive calculator with keyboard support |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/sonakshii-singh/"><img src="https://img.shields.io/badge/LeetCode-2B2D42?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://codeforces.com/profile/Sonakshii_Singh"><img src="https://img.shields.io/badge/Codeforces-FF4FA3?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/sonakshii_s"><img src="https://img.shields.io/badge/CodeChef-2B2D42?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+# Current Focus
 
 ```yaml
-deepening:
-  - Advanced DSA (graphs, DP, greedy)
+learning:
+  - C++
+  - Data Structures & Algorithms
+  - Python
   - AI / Machine Learning
-  - System design fundamentals
 
-exploring:
-  - Open source contribution
-  - Competitive programming (Codeforces rating climb)
+building:
+  - Full Stack Projects
+  - Open Source Contributions
+
+seeking:
+  - Software Engineering Internship
 ```
 
 ---
 
-## Let's Connect
+# Connect
 
 <p align="center">
-
-<a href="https://github.com/sonakshii-singh">
-<img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sonakshi-singh-4aa7bb380">
-<img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<a href="https://github.com/sonakshii-singh"><img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sonakshi-singh-4aa7bb380"><img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
-Building software with clean architecture, strong fundamentals, and continuous learning.
+<i>Building practical software through continuous learning and open-source collaboration.</i>
 </p>
 
 <p align="center">
