@@ -84,6 +84,13 @@ A structured collection of C++ solutions for the TLE Eliminators CP-31 Sheet, or
 
 **Tech:** C++  
 **Link:** [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31)
+
+### Calculator Project
+
+A responsive web-based calculator developed to strengthen JavaScript fundamentals, featuring keyboard support, mouse interactions, and a clean, user-friendly interface.
+
+**Tech:** HTML · CSS · JavaScript  
+**Link:** [Repo](https://github.com/sonakshii-singh/calculator-project)
 ---
 
 ## Competitive Programming
