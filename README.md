@@ -57,40 +57,17 @@ I'm a B.Tech CSE student passionate about data analytics, solving algorithmic pr
 
 ## Featured Projects
 
-###  FitMart — Full-Stack Fitness Platform
-MERN application combining workout tracking, a BMI calculator, and an AI-powered chatbot for personalized fitness guidance, with secure authentication and Razorpay payment integration for premium features.
-<!-- TODO: Add 1 concrete detail — e.g. "Handles X concurrent users", "Reduced page load by X%", "Built for a class of 50 beta testers" — whatever is true and specific. -->
-**Tech:** React · Node.js · Express · MongoDB · Razorpay API
-**Links:** [Repo](https://github.com/sonakshii-singh/FitMart) <!-- · [Live Demo](#) — add if deployed -->
+## Featured Projects
 
-###  LeetCode Journey
-A running archive of optimized C++ solutions to Data Structures & Algorithms problems, organized to track pattern recognition (sliding window, DP, graphs, etc.) rather than just problem count.
-**Tech:** C++
-**Link:** [Repo](https://github.com/sonakshii-singh/leetcode-journey)
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **FitMart** | MERN fitness platform with AI chatbot, Razorpay integration, BMI calculator, workout tracker, and admin dashboard. | React · Node · Express · MongoDB | [Repo](https://github.com/sonakshii-singh/FitMart) |
+| **LeetCode Journey** | Optimized C++ solutions for DSA and interview preparation. | C++ | [Repo](https://github.com/sonakshii-singh/leetcode-journey) |
+| **Codeforces Journey** | Competitive programming solutions organized by rating. | C++ | [Repo](https://github.com/sonakshii-singh/Competitive-Programming-Codeforces) |
+| **To-Do App** | Task management app with local storage. | HTML · CSS · JS | [Repo](https://github.com/sonakshii-singh/To-Do-App) |
+| **CP-31 Sheet** | Structured solutions for the TLE Eliminators CP-31 Sheet. | C++ | [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31) |
+| **Calculator** | Responsive calculator with keyboard and mouse support. | HTML · CSS · JS | [Repo](https://github.com/sonakshii-singh/calculator-project) |
 
-###  Competitive Programming — Codeforces
-Solutions to Codeforces problems, organized by difficulty rating, focused on writing clean, efficient, and reusable algorithmic code under contest constraints.
-**Tech:** C++
-**Link:** [Repo](https://github.com/sonakshii-singh/Competitive-Programming-Codeforces)
-
-###  To-Do App
-A responsive task management app with persistent local storage, built to practice clean vanilla JS state management without a framework.
-**Tech:** HTML · CSS · JavaScript
-**Link:** [Repo](https://github.com/sonakshii-singh/To-Do-App)
-
-### TLE Eliminators CP-31 Sheet
-
-A structured collection of C++ solutions for the TLE Eliminators CP-31 Sheet, organized to strengthen algorithmic thinking through consistent competitive programming practice.
-
-**Tech:** C++  
-**Link:** [Repo](https://github.com/sonakshii-singh/-TLE-ELIMINATORS_CP31)
-
-### Calculator Project
-
-A responsive web-based calculator developed to strengthen JavaScript fundamentals, featuring keyboard support, mouse interactions, and a clean, user-friendly interface.
-
-**Tech:** HTML · CSS · JavaScript  
-**Link:** [Repo](https://github.com/sonakshii-singh/calculator-project)
 ---
  
 ## Competitive Programming
