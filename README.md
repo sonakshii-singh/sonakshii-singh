@@ -41,7 +41,7 @@ Software Engineering student interested in scalable software systems, competitiv
 <p><img src="https://skillicons.dev/icons?i=react"/></p>
 
 ### Backend & Databases
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/></p>
 
 ### Cloud, DevOps & Tooling
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode"/></p>
@@ -219,7 +219,7 @@ Professional engineering focused implementation emphasizing maintainability, rea
 - Open Source Contributions
 - Continuous Learning
 
-**Skills:** `python` `C++` `Node.js` `Git` `C` `Canva` `SQL`
+**Skills:** `python` `C++` `Node.js` `Git` `C` `Canva` `SQL` `html` `css` `js`
 
 ---
 
@@ -228,8 +228,8 @@ Professional engineering focused implementation emphasizing maintainability, rea
 | Recognition | Details |
 |---|---|
 | LeetCode | 1480 Rating |
-| CodeChef | 1333 Rating |
-| CodeForces | 702 Rating |
+| CodeChef | 1337 Rating |
+| CodeForces | 898 Rating |
 ---
 
 ## <img src="https://img.icons8.com/fluency/24/source-code.png" width="22"/> Coding Profiles
@@ -285,7 +285,7 @@ learning:
 
 exploring:
   - CP
-  - Projects
+  - Open Source Contributions
 
 open_to:
   - Internships
