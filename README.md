@@ -92,7 +92,7 @@ A responsive web-based calculator developed to strengthen JavaScript fundamental
 **Tech:** HTML · CSS · JavaScript  
 **Link:** [Repo](https://github.com/sonakshii-singh/calculator-project)
 ---
-
+ 
 ## Competitive Programming
 
 <p align="center">
